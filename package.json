@@ -1,0 +1,13 @@
+{
+  "name": "com.toolkid.utilityextension",
+  "version": "0.0.1",
+  "displayName": "Utility Extension",
+  "description": "Suppies extension methods to aid user to develop",
+  "unity": "2021.3",
+  "licensesUrl": "https://choosealicense.com/licenses/gpl-3.0/",
+  "author": {
+    "name": "Huang, Hanson",
+    "email": "hhs456@yahoo.com.tw",
+    "url": "https://www.unity3d.com"
+  }
+}
