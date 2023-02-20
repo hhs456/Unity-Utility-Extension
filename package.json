@@ -4,7 +4,7 @@
   "displayName": "Utility Extension",
   "description": "Suppies extension methods to aid user to develop",
   "unity": "2021.3",
-  "changelog": "https://github.com/hhs456/Utility-Extension/commits/main",
+  "changelogUrl": "https://github.com/hhs456/Utility-Extension/commits/main",
   "licensesUrl": "https://choosealicense.com/licenses/gpl-3.0/",
   "author": {
     "name": "Huang, Hanson",
