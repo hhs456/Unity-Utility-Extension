@@ -6,8 +6,15 @@
   "unity": "2021.3",
   "changelogUrl": "https://github.com/hhs456/Utility-Extension/commits/main",
   "licensesUrl": "https://choosealicense.com/licenses/gpl-3.0/",
+  "samples": [
+    {
+      "displayName": "Script Templates",
+      "description": "A toolkit for adding new script.",
+      "path": "Samples~"
+    }
+  ],
   "author": {
-    "name": "Huang, Hanson",
+    "name": "Tool Kid",
     "email": "hhs456@yahoo.com.tw",
     "url": "https://github.com/hhs456/Utility-Extension"
   }
