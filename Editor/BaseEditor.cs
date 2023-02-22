@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace ToolKid {
+namespace ToolKid.EditorExtension {
     
     public abstract class BaseEditor : Editor {
 
